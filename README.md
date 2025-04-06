@@ -24,18 +24,18 @@ This app helps users browse food items, add them to the cart, make online paymen
 ### 🔻 Line 1
 
 <p align="center">
+  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/wellcomescreen.jpeg" width="140">
   <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/splashscreen.jpeg" width="140">
-  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/splashscreen.jpeg" width="140">
   <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/loginscreen.jpeg" width="140">
-  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/loginscreen.jpeg" width="140">
-  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/loginscreen.jpeg" width="140">
-  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/loginscreen.jpeg" width="140">
+  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/signup.jpeg" width="140">
+  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/mainactivity%26Homefregment.jpeg" width="140">
+  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/searchfragment.jpeg" width="140">
   <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/cartfragment.jpeg" width="140">
 </p>
 
 <p align="center">
-  <b>Splash</b>&emsp;&emsp;
   <b>wellcome</b>&emsp;&emsp;
+  <b>Splash</b>&emsp;&emsp;
   <b>Login</b>&emsp;&emsp;
   <b>Signup</b>&emsp;&emsp;
   <b>Home</b>&emsp;&emsp;
