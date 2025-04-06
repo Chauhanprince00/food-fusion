@@ -73,8 +73,8 @@ class payoutActivity : AppCompatActivity(),PaymentResultListener {
             name = binding.name.text.toString().trim()
             address = binding.address.text.toString().trim()
             phone = binding.phone.text.toString().trim()
-            if (name.isBlank()&&address.isBlank()&&phone.isBlank()){
-                Toast.makeText(this, "Please enter all the details", Toast.LENGTH_SHORT).show()
+            if (name.isBlank()||name.isEmpty()&&address.isBlank()||address.isEmpty()&&phone.isBlank()||phone.isEmpty()){
+                Toast.makeText(this, "please fill all details from profile section", Toast.LENGTH_SHORT).show()
             }else{
                 startpayment(name,address,phone)
             }
