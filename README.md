@@ -23,47 +23,34 @@ This app helps users browse food items, add them to the cart, make online paymen
 
 ### 🔻 Line 1
 
-<p align="center">
-  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/wellcomescreen.jpeg" width="140">
-  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/splashscreen.jpeg" width="140">
-  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/loginscreen.jpeg" width="140">
-  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/signup.jpeg" width="140">
-  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/mainactivity%26Homefregment.jpeg" width="140">
-  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/searchfragment.jpeg" width="140">
-  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/cartfragment.jpeg" width="140">
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://github.com/Chauhanprince00/food-fusion/blob/master/wellcomescreen.jpeg" width="140"><br><b>Welcome</b></td>
+    <td align="center"><img src="https://github.com/Chauhanprince00/food-fusion/blob/master/splashscreen.jpeg" width="140"><br><b>Splash</b></td>
+    <td align="center"><img src="https://github.com/Chauhanprince00/food-fusion/blob/master/loginscreen.jpeg" width="140"><br><b>Login</b></td>
+    <td align="center"><img src="https://github.com/Chauhanprince00/food-fusion/blob/master/signup.jpeg" width="140"><br><b>Signup</b></td>
+    <td align="center"><img src="https://github.com/Chauhanprince00/food-fusion/blob/master/mainactivity%26Homefregment.jpeg" width="140"><br><b>Home</b></td>
+    <td align="center"><img src="https://github.com/Chauhanprince00/food-fusion/blob/master/searchfragment.jpeg" width="140"><br><b>Search</b></td>
+    <td align="center"><img src="https://github.com/Chauhanprince00/food-fusion/blob/master/cartfragment.jpeg" width="140"><br><b>Cart</b></td>
+  </tr>
+</table>
 
-<p align="center">
-  <b>wellcome</b>&emsp;&emsp;
-  <b>Splash</b>&emsp;&emsp;
-  <b>Login</b>&emsp;&emsp;
-  <b>Signup</b>&emsp;&emsp;
-  <b>Home</b>&emsp;&emsp;
-  <b>Search</b>&emsp;&emsp;
-  <b>Cart</b>
-</p>
 
 ---
 
 ### 🔻 Line 2
 
-<p align="center">
-  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/menubottomsheet.jpeg" width="140">
-  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/detailactiviy.jpeg" width="140">
-  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/payment.jpeg" width="140">
-  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/notificationsbottomsheet.jpeg" width="140">
-  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/historyfragment.jpeg" width="140">
-  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/profilefregment.jpeg" width="140">
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://github.com/Chauhanprince00/food-fusion/blob/master/menubottomsheet.jpeg" width="140"><br><b>All Menu</b></td>
+    <td align="center"><img src="https://github.com/Chauhanprince00/food-fusion/blob/master/detailactiviy.jpeg" width="140"><br><b>Details</b></td>
+    <td align="center"><img src="https://github.com/Chauhanprince00/food-fusion/blob/master/payment.jpeg" width="140"><br><b>Payment</b></td>
+    <td align="center"><img src="https://github.com/Chauhanprince00/food-fusion/blob/master/notificationsbottomsheet.jpeg" width="140"><br><b>Notification</b></td>
+    <td align="center"><img src="https://github.com/Chauhanprince00/food-fusion/blob/master/historyfragment.jpeg" width="140"><br><b>Order History</b></td>
+    <td align="center"><img src="https://github.com/Chauhanprince00/food-fusion/blob/master/profilefregment.jpeg" width="140"><br><b>Profile</b></td>
+  </tr>
+</table>
 
-<p align="center">
-   <b>all menu activity</b>&emsp;&emsp;
-  <b>detailedactivity</b>&emsp;&emsp;
-  <b>Payment</b>&emsp;&emsp;
-  <b>Notification</b>&emsp;&emsp;
-  <b>Order History</b>&emsp;&emsp;
-  <b>Profile</b>&emsp;&emsp;
-</p>
 
 ---
 
