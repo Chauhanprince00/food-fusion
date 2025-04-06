@@ -24,13 +24,13 @@ This app helps users browse food items, add them to the cart, make online paymen
 ### 🔻 Line 1
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1OGdfQEG7ml2WdveYfeuKkl1S5WTJpZOi/view?usp=drive_link" width="140">
-  <img src="https://drive.google.com/file/d/1T2adnURP87V-ipeRp388Y30ICzm-js7Q/view?usp=drive_link" width="140">
-  <img src="https://drive.google.com/file/d/1qu5d3dJfG0qoyjTyVQHfOw6GkIZZHLbd/view?usp=drive_link" width="140">
-  <img src="https://drive.google.com/file/d/1raSWMGopYE-q5hMp7kSHYMAF8-hfvnN9/view?usp=drive_link" width="140">
-  <img src="https://drive.google.com/file/d/1VKuYMMKosUYjAG3dF4jLjlxPfUSHMGVX/view?usp=drive_link" width="140">
-  <img src="https://drive.google.com/file/d/1itHcYnMxwhE6rfcU2MnN3AJ-CNiKFUtE/view?usp=drive_link" width="140">
-  <img src="https://drive.google.com/file/d/1NYi2KLCSafkPrqDtqvsUu7qJXXnjExAR/view?usp=drive_link" width="140">
+  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/splashscreen.jpeg" width="140">
+  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/splashscreen.jpeg" width="140">
+  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/loginscreen.jpeg" width="140">
+  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/loginscreen.jpeg" width="140">
+  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/loginscreen.jpeg" width="140">
+  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/loginscreen.jpeg" width="140">
+  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/cartfragment.jpeg" width="140">
 </p>
 
 <p align="center">
@@ -48,12 +48,12 @@ This app helps users browse food items, add them to the cart, make online paymen
 ### 🔻 Line 2
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1Alc9ytlSI48xDleM5uCy_6Pf7TuQcd0R/view?usp=drive_link" width="140">
-  <img src="https://drive.google.com/file/d/172ioYk9P8Idy8o-T9bAheUPOAio47zUe/view?usp=drive_link" width="140">
-  <img src="https://drive.google.com/file/d/18RZbUpqcOEtRFnLmDBnoc4xbbGWkpOq2/view?usp=drive_link" width="140">
-  <img src="https://drive.google.com/file/d/1EW8ZeWt2_agWtD6uwQ1gZKpIl_b3SoiB/view?usp=drive_link" width="140">
-  <img src="https://drive.google.com/file/d/1bQhPevs6h7ayOM7tgiw80LTmmcWKRZCe/view?usp=drive_link" width="140">
-  <img src="https://drive.google.com/file/d/186DO8tERGMn6-CRyDgpDVmcnRfG7pin0/view?usp=drive_link" width="140">
+  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/menubottomsheet.jpeg" width="140">
+  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/detailactiviy.jpeg" width="140">
+  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/payment.jpeg" width="140">
+  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/notificationsbottomsheet.jpeg" width="140">
+  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/historyfragment.jpeg" width="140">
+  <img src="https://github.com/Chauhanprince00/food-fusion/blob/master/profilefregment.jpeg" width="140">
 </p>
 
 <p align="center">
